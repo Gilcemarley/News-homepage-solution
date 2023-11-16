@@ -10,7 +10,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://gilcemarley.github.io/News-homepage-solution/
 
 ### Built with
 
